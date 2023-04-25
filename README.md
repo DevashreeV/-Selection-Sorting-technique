@@ -48,3 +48,6 @@ The sorted array is lastly printed by the Selectionsort function's printf instru
 An integer array array of size 5 is declared and initialised with 5 unsorted integers in the main function. The array and its size are then sent as parameters to the Selectionsort method. When the function is finished, main returns 0, indicating that the programme has been successfully run.
 
 The output of the programme will show the sorted array as "5 7 23 45 65" once it has run.
+
+![Screenshot (734)](https://user-images.githubusercontent.com/91966097/234368618-199f67e4-a2f4-403e-85b7-6a7a9f34073a.png)
+
